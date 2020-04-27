@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title class="h1">Norse Mythology </title>
+        <meta charset="utf-8">
+        <style>
+        #intro {font-family:cursive;}
+        #intro {color:rgb(219, 201, 0);}
+        #intro {background-color:rgb(199, 48, 164);}
+        #intro {font-size: 18px;}
+        .h1 {font-size:2em;}
+        </style>
+    </head>
+    <body>
+       
+        <h1 class="h1">Norse Mythology</h1>
+        <p id="intro">This is page all about <strong>Norse Mythology</strong> and my favourite stories and interesting facts from it. I don't really know what else to say because this is my first page and any helpful comments would really be appreciated (for both the code and the formatting).
+        
+        
+        
+        </p>
+        <h2 id="h2">Contents (with links!)</h2>
+        <ul>
+           <li><a href="ygg">Yggdrasil</a></li>
+            <li> <a href="tdob">The Death Of Baldr</a></li>
+            <li>The nine realms</li>
+        </ul>
+        
+      <p id="ygg">Yggdrasil, or the world tree was the mighty tree whose trunk rises at the geographical center of the Norse spiritual cosmos. The rest of that cosmos, including the Nine Worlds, is arrayed around it and held together by its branches and roots, which connect the various parts of the cosmos to one another. Because of this, the well-being of the cosmos depends on the well-being of Yggdrasil. When the tree trembles, it signals the arrival of Ragnarok, the destruction of the universe.<br><br>
+          Yggdrasil holds up the nine realms: Midgard, Alfheim, Asgard,Jotenheim,Svartalheim,Hel,Niflheim, Vanaheim and Muspelheim.
+      </p>
+      
+      
+       <p id="tdob"> Baldur was a generous, joyful, and courageous character who made veryone who spent time with him happier. When, therefore, he began to have dreams of some misfortune happening to him, the gods appointed Odin to discover their meaning.<br>Odin visited a seeress who told him that Baldr was to die and then he returned to Asgard and told the other gods of this news. Frigg, who naturally didn't want her son to die made every living thing swear an oath not to hurt Baldr.<br> <br>Along came Loki, the god of trickery who asked Frigg "Did all things swear oaths to spare Baldur from harm?” “Oh, yes,” the goddess replied, “everything except the mistletoe. But the mistletoe is so small and innocent a thing that I felt it unnecessary to ask it for an oath. What harm could it do to my son?” <br>
+       <br>Immediately upon hearing this, Loki departed, located the mistletoe, and carved a spear out of it, then brought it to where the gods were playing their new favorite game of throwing things at Baldr and watching them bounce of and leaving him without harm.
+
+He approached the blind god Hodr and said, “You must feel quite left out, having to sit back here away from the fun, not being given a chance to show Baldur the honor of proving his invincibility.” The blind god agreed. “Here,” said Loki, handing him the shaft of mistletoe. “I will point your hand in the direction where Baldur stands, and you throw this branch at him.” So Hod threw the mistletoe. It pierced the god straight through, and he fell down dead on the spot.</p>
+    
+    </body>
+</html>
